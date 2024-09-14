@@ -1,0 +1,6 @@
+.DS_Store
+
+Icon?
+
+# Don't ignore Icon? file in the assets directory
+!/assets/Icon?
