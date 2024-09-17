@@ -88,4 +88,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Acknowledgements
 
 - This tool uses macOS-specific commands and is designed for use on macOS systems.
-- The custom icon file is stored with a carriage return in its name, which is a specific requirement for custom directory icons in macOS.
+- The custom icon file is stored with a carriage return in its name, which is a specific requirement for custom folder icons in macOS.
