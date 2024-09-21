@@ -4,6 +4,10 @@ mkdevdir is a simple command-line utility for macOS that allows you to effortles
 
 If you create a "Developer" directory directly in your macOS user directory (e.g., /Users/yourusername/Developer), MacOS automatically assigns the developer icon to this directory. However, mkdevdir allows you to apply this icon to any directory in your system, giving you more flexibility in organizing your development projects.
 
+<p align="center">
+![git_pic](assets/git_pic.png)
+</p>
+
 ## Features
 
 - Set Apple's original developer icon for existing directories or create new directories with this custom icon
